@@ -18,22 +18,22 @@ It helps uncover valuable business insights across different regions, products, 
 ## 📈 Dashboards Preview
 
 ### Dashboard 1 – Overall KPIs and Trends
-![Dashboard 1](451030c0-ab71-4f5a-83ef-9266c856b2af.png)
+![Dashboard 1](dashboard1.png)
 
 ---
 
 ### Dashboard 2 – Regional and State-level Analysis
-![Dashboard 2](f668944a-37be-4b22-8cfd-02e691a12ada.png)
+![Dashboard 2](dashboard2.png)
 
 ---
 
 ### Dashboard 3 – Price vs Sales Scatter, Quantity, Profit
-![Dashboard 3](cc5240c0-91fe-484c-837d-fe2965c3bf46.png)
+![Dashboard 3](dashboard3.png)
 
 ---
 
 ### Dashboard 4 – Customer, Date-wise Breakdown
-![Dashboard 4](4dcb1e94-8511-488a-99b7-954d8c7b2300.png)
+![Dashboard 4](dashboard4.png)
 
 ---
 
