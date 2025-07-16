@@ -23,17 +23,17 @@ It helps uncover valuable business insights across different regions, products, 
 ---
 
 ### Dashboard 2 – Regional and State-level Analysis
-![Dashboard 2](dashboard2.png)
+![Dashboard 2](dashboard2.png,png)
 
 ---
 
 ### Dashboard 3 – Price vs Sales Scatter, Quantity, Profit
-![Dashboard 3](dashboard3.png)
+![Dashboard 3](dashboard3.png.png)
 
 ---
 
 ### Dashboard 4 – Customer, Date-wise Breakdown
-![Dashboard 4](dashboard4.png)
+![Dashboard 4](dashboard4.png.png)
 
 ---
 
