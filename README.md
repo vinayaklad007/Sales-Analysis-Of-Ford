@@ -23,7 +23,7 @@ It helps uncover valuable business insights across different regions, products, 
 ---
 
 ### Dashboard 2 – Regional and State-level Analysis
-![Dashboard 2](dashboard2.png,png)
+![Dashboard 2](dashboard2.png.png)
 
 ---
 
