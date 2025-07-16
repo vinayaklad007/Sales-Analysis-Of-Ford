@@ -53,14 +53,6 @@ It helps uncover valuable business insights across different regions, products, 
 
 ---
 
-## 🚀 How to Use
-
-1. Clone or download this repository
-2. Open `.pbix` file using Power BI Desktop
-3. Explore filters, visuals, and measures
-
----
-
 ## 📬 Contact
 
 **Vinayak Lad**  
