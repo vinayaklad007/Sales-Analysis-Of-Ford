@@ -7,7 +7,7 @@ It helps uncover valuable business insights across different regions, products, 
 
 ## 📌 Key Insights
 
-- 🏬 **Total Sales:** ₹90.77M | **Total Profit:** ₹78.25M | **Orders:** 8,757  
+- 🏬  **Total Profit:** ₹78.25M | **Orders:** 8,757  
 - 🔍 **Top Performing States**: California, Texas, Illinois  
 - 🧑‍💼 **Top 5 Customers:** Victory Ltd, WakeFern, Winthrop, Weimei Corp, Wuxi Group  
 - 🗺️ **Sales By Location**: Clear geographic analysis through map visuals  
@@ -18,7 +18,7 @@ It helps uncover valuable business insights across different regions, products, 
 ## 📈 Dashboards Preview
 
 ### Dashboard 1 – Overall KPIs and Trends
-![Dashboard 1](dashboard1.png)
+![Dashboard 1](dashboard1.png.png)
 
 ---
 
